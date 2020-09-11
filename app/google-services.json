@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72109761450",
+    "firebase_url": "https://photocalculator-1585f.firebaseio.com",
+    "project_id": "photocalculator-1585f",
+    "storage_bucket": "photocalculator-1585f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72109761450:android:bfee298f6bb222d69181d3",
+        "android_client_info": {
+          "package_name": "com.jerry.photocalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72109761450-h3kajr2dsmmldjm2g6oosh6obk4ko06u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYaAdNTAqkkBnTqYwwIaoIe-YIO3mKhTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72109761450-h3kajr2dsmmldjm2g6oosh6obk4ko06u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
